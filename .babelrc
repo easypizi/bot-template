@@ -1,0 +1,6 @@
+{
+  "presets": ["@babel/preset-env"],
+  "plugins": ["@babel/plugin-transform-class-properties"],
+  "ignore": ["node_modules"],
+  "include": ["index.js"]
+}
